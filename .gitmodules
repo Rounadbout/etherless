@@ -7,3 +7,6 @@
 [submodule "etherless-server"]
 	path = etherless-server
 	url = https://github.com/Rounadbout/etherless-server
+[submodule "Documentazione"]
+	path = Documentazione
+	url = https://github.com/Rounadbout/Documentazione
