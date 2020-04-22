@@ -1,3 +1,6 @@
 [submodule "etherless-cli"]
 	path = etherless-cli
 	url = https://github.com/Rounadbout/etherless-cli
+[submodule "etherless-smart"]
+	path = etherless-smart
+	url = https://github.com/Rounadbout/etherless-smart
