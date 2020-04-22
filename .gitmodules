@@ -4,3 +4,6 @@
 [submodule "etherless-smart"]
 	path = etherless-smart
 	url = https://github.com/Rounadbout/etherless-smart
+[submodule "etherless-server"]
+	path = etherless-server
+	url = https://github.com/Rounadbout/etherless-server
