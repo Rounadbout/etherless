@@ -1,0 +1,3 @@
+[submodule "etherless-cli"]
+	path = etherless-cli
+	url = https://github.com/Rounadbout/etherless-cli
