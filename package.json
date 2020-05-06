@@ -11,6 +11,9 @@
   },
   "author": "",
   "license": "ISC",
+  "bin": {
+    "etherless": "./etherless-cli/src/index.ts"
+  },
   "bugs": {
     "url": "https://github.com/Rounadbout/etherless/issues"
   },
