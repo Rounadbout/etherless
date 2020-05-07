@@ -3,7 +3,7 @@ Etherless is a Cloud Application Platform which allows developers to deploy Java
 
 # Installation 
 - Download this repo.
-- From inside of the downloaded repo run the command <code>npm install</code> to install all the missing dependecies. Then run the command <code>npm link</code> <b>as Administrator</b> (which allow you to use the keyword 'etherless' to execute commands).
+- From inside of the etherless-cli repo run the command <code>npm install</code> to install all the missing dependecies. Then run the command <code>npm link</code> <b>as Administrator</b> (which allow you to use the keyword 'etherless' to execute commands).
 
 # Commands 
 To use a command from inside the repository run: <code>etherless `<command>` [params...]</code>
