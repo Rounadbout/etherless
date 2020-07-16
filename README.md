@@ -17,6 +17,7 @@ Will create an Ethereum account for you, and show its: address, private key and 
 
 ## Login 
 Command: <code>etherless login `<private_key>` </code> <br />
+         <code>etherless login -m `<mnemonic_phrase>` </code> <br />
 It will log the user in an Ethereum wallet with the private key inserted. <br>
 A password to encrypt the wallet will be requested after executing this command.
 
